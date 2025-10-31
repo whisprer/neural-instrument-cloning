@@ -1,15 +1,23 @@
-# Neural Instrument Cloning
+[README.md]
 
-In this project we combine techniques from neural voice cloning and musical instrument synthesis to achieve good results from as little as 16 seconds of target data.
+# Neural-Instrument-Cloning
 
-- [Colab where you can play with pretrained models](https://colab.research.google.com/drive/1jBvYp9JLfOnzRXllR3_VqDM8nErm2T7b?usp=sharing).
+<p align="center">
+  <a href="https://github.com/whisprer/neural-instrument-cloning/releases"> 
+    <img src="https://img.shields.io/github/v/release/whisprer/neural-instrument-cloning?color=4CAF50&label=release" alt="Release Version"> 
+  </a>
+  <a href="https://github.com/whisprer/neural-instrument-cloning/actions"> 
+    <img src="https://img.shields.io/github/actions/workflow/status/whisprer/neural-instrument-cloning/lint-and-plot.yml?label=build" alt="Build Status"> 
+  </a>
+</p>
 
-- [Blogpost with audio examples](https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8b630842ee8c7eb55036a1bfd6).
+![Commits](https://img.shields.io/github/commit-activity/m/whisprer/neural-instrument-cloning?label=commits) 
+![Last Commit](https://img.shields.io/github/last-commit/whisprer/neural-instrument-cloning) 
+![Issues](https://img.shields.io/github/issues/whisprer/neural-instrument-cloning) 
+[![Version](https://img.shields.io/badge/version-3.1.1-blue.svg)](https://github.com/whisprer/neural-instrument-cloning) 
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey.svg)](https://www.microsoft.com/windows)
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-- [Preprint of paper (under review at DAFX 2022)](https://erl-j.github.io/neural-music-instrument-cloning-web-supplement/Neural_Instrument_Cloning_PREPRINT.pdf)
-
-Preprint coming soon.
-
-Note that this is very much research code 🗑
-
-Also check out https://github.com/magenta/ddsp which our project builds upon.
+<p align="center">
+  <img src="neural-instrument-cloning-banner.png" width="850" alt="Neural-Instrument-Cloning Banner">
